@@ -22,6 +22,6 @@ let user =[
    { Age: 28},
  { email: gasandigitalgmailcom},
 ]
- const newUser = user.filter(user.age)
+ const newUser = foyda.filter(user=> user.age)
  console.log(newUser);
  
