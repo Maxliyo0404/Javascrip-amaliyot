@@ -18,6 +18,6 @@
 
 
 let user ={
-  name: "Ali";
-  
+  name: "Ali",
+  Age: 28,
 }
