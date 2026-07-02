@@ -9,5 +9,5 @@
 
 
 let son = [10, 30, 60, 20, 89, 75];
-let 
+let  result = son.filter(n>)
 console.log(result);
