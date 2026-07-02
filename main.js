@@ -13,4 +13,4 @@
 // let  result = son.filter(n => n > 20);
 // console.log(result);
 
-const new = [BMW, ]
+const new = [BMW, CObolt ]
