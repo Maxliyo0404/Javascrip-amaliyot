@@ -17,6 +17,7 @@
 // console.log(newCar);
 
 
-let newYer ={
-    
+let user ={
+  name: "Ali";
+  
 }
