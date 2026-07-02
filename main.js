@@ -15,3 +15,8 @@
 
 // const newCar = arr.filter(item =>shart);
 // console.log(newCar);
+
+
+let newYer ={
+    
+}
