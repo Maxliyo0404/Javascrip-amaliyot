@@ -20,4 +20,6 @@
 let user ={
   name: "Ali",
   Age: 28,
+  email: gasandigitalgmailcom,
+
 }
