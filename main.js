@@ -13,4 +13,5 @@
 // let  result = son.filter(n => n > 20);
 // console.log(result);
 
-const new = arr.filter(item =>shart)
+const newCar = arr.filter(item =>shart);
+console.log(newCar);
