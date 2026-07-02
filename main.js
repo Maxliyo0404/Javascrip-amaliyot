@@ -22,6 +22,6 @@ let user =[
    { Age: 28},
  { email: gasandigitalgmailcom},
 ]
- const newUser =user.filter(users=> users.age ==! undefined)
+ const newUser =user.filter(users=> users.age ==! undefined);
  console.log(newUser);
  
