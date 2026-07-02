@@ -23,5 +23,5 @@ let user =[
  { email: gasandigitalgmailcom},
 ]
  const newUser = user.filter(user.age)
- console.log();
+ console.log(newUser);
  
