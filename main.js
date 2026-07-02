@@ -9,5 +9,5 @@
 
 
 let son = [10, 30, 60, 20, 89, 75];
-let  result = son.filter(n>)
+let  result = son.filter(n => n > 20);
 console.log(result);
