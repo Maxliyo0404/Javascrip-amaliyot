@@ -17,9 +17,10 @@
 // console.log(newCar);
 
 
-let user ={
-  name: "Ali",
+let user =[
+   {name: "Ali"},
   Age: 28,
   email: gasandigitalgmailcom,
-
-}
+ let 
+]
+ 
