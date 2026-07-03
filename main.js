@@ -57,5 +57,6 @@
 // let number = num.filter(son => son > 13);
 // console.log(number);
   const user = [
+    {name: 'ALI'},
     
   ]
