@@ -47,5 +47,5 @@
 // console.log(result);
  const fruiet = ["olma", "anor", "bexi", "nok"];
  const fruites = fruiet.filter((element, index)=>{
-  return index
+  return index %2 === 0
  })
