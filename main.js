@@ -54,3 +54,4 @@
 //  console.log(fruites);
 
 let num = [10, 5, 8, 60, 70, 22, 16, 77];
+let number = num.filter
