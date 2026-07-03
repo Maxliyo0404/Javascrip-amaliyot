@@ -59,5 +59,6 @@
   const user = [
     {name: 'ALI', age: 18 },
     {name: 'Vali', age: 24},
-    {name: 'Ali', },
+    {name: 'Ali', age: 30}
   ]
+  const users = user.filter
