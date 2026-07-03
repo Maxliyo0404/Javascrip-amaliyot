@@ -51,4 +51,4 @@ function ishlatish(fn) {
 
 ishlatish(salomber)
 
-let son = 
+let son = [10, 30, 22, 59, 15, 90, 40];
