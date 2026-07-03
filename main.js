@@ -46,7 +46,7 @@
 // let result = son.filter(son => son % 2 === 0);
 // console.log(result);
  const fruiet = ["olma", "anor", "bexi", "nok"];
- const fruites = fruiet.filter((element, index)=>{
+ const fruites = fruiet.filter((element)=>{
   return element.length
 
 
