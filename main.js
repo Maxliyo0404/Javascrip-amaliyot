@@ -59,8 +59,8 @@
   const user = [
     {name: 'ALI', age: 18 },
     {name: 'Vali', age: 24},
-    {name: 'Ali', age: 30}
+    {name: 'Akbar', age: 30}
   ]
-  const users = user.filter( nom => nom.name === true);
+  const users = user.filter( nom => nom.startsWith('A'));
   console.log(users);
   
