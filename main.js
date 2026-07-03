@@ -53,3 +53,4 @@ ishlatish(salomber)
 
 let son = [10, 30, 22, 59, 15, 90, 40];
 let result = son.map(son => son % 2 === 0);
+console.log();
