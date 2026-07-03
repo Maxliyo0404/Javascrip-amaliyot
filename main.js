@@ -59,5 +59,5 @@
   const user = [
     {name: 'ALI'},
     {age: 24},
-    {}
+    {email : gasandigital},
   ]
