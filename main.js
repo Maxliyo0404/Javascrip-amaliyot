@@ -17,11 +17,38 @@
 // console.log(newCar);
 
 
-let user =[
-   {name: "Ali"},
-   { Age: 28},
- { email: gasandigitalgmailcom},
-]
- const newUser =user.filter(users=> users.age ==! undefined);
- console.log(newUser);
+// let user =[
+//    {name: "Ali"},
+//    { Age: 28},
+//  { email: gasandigitalgmailcom},
+// ]
+//  const newUser =user.filter(users=> users.age ==! undefined);
+//  console.log(newUser);
  
+// const salomber = function(){
+//   console.log("salom");
+  
+// };
+// salomber();
+
+
+// function hello(){
+//   return function(){
+//     console.log("bu kitob");
+    
+//   };
+// }
+// const newYear = hello();
+// newYear();
+  const salomber = function (){
+      console.log('salom');
+      
+   }
+   
+function ishlatish(fn) {
+  fn(); // Bu yerda fn - bu biz yuborgan 'salomber' funksiyasi
+}
+
+ishlatish(salomber)
+
+let son = 
