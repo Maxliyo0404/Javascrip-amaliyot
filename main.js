@@ -52,3 +52,4 @@ function ishlatish(fn) {
 ishlatish(salomber)
 
 let son = [10, 30, 22, 59, 15, 90, 40];
+let result = son
