@@ -61,6 +61,6 @@
     {name: 'Vali', age: 24},
     {name: 'Ali', age: 30}
   ]
-  const users = user.filter( nom => nom.age >20 );
+  const users = user.filter( nom => nom.name === true);
   console.log(users);
   
