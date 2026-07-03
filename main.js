@@ -61,6 +61,6 @@
     {name: 'Vali', age: 24},
     {name: 'Akbar', age: 30}
   ]
-  const users = user.filter( nom => nom.startsWith('A'));
+  const users = user.filter( ism => ism.startsWith('A'));
   console.log(users);
   
