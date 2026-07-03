@@ -58,5 +58,6 @@
 // console.log(number);
   const user = [
     {name: 'ALI'},
-    
+    {age: 24},
+    {}
   ]
