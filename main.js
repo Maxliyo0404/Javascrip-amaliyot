@@ -45,4 +45,5 @@
 // let son = [10, 30, 22, 59, 15, 90, 40];
 // let result = son.filter(son => son % 2 === 0);
 // console.log(result);
- const fruiet = ["olma", "anor", "bexi", "nok"]
+ const fruiet = ["olma", "anor", "bexi", "nok"];
+ const fruites
