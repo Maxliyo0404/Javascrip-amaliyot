@@ -57,7 +57,7 @@
 // let number = num.filter(son => son > 13);
 // console.log(number);
   const user = [
-    {name: 'ALI'},
-    {age: 24},
+    {name: 'ALI', age: 18 },
+    {name: 'Vali', age: 24},
     {email : gasandigital},
   ]
