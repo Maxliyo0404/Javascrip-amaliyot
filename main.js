@@ -56,11 +56,11 @@
 // let num = [10, 5, 8, 60, 70, 22, 16, 77];
 // let number = num.filter(son => son > 13);
 // console.log(number);
-  const user = [
-    {name: 'ALI', age: 18 },
-    {name: 'Vali', age: 24},
-    {name: 'Akbar', age: 30}
-  ]
-  const users = user.filter( u => u.name.toLocaleLowerCase().startsWith('a'));
-  console.log(users);
+  // const user = [
+  //   {name: 'ALI', age: 18 },
+  //   {name: 'Vali', age: 24},
+  //   {name: 'Akbar', age: 30}
+  // ]
+  // const users = user.filter( u => u.name.toLocaleLowerCase().startsWith('a'));
+  // console.log(users);
   
