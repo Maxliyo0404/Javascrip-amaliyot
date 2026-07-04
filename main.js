@@ -68,3 +68,4 @@
 // const res = harf.map((harflar => harflar.index)) 
 //  console.log(res)
 let son = [2, 7, 9, 4, 12, 3, 20];
+let number = 
