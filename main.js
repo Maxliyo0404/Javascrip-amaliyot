@@ -70,4 +70,4 @@
 // let son = [2, 7, 9, 4, 12, 3, 20];
 // let number = son.map(n => n * 2);
 // console.log(number);
-?
+
