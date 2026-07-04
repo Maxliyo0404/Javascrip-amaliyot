@@ -72,4 +72,6 @@
 // console.log(number);
 
 const son = [2, 3, 9, 5, 7, 9];
-son.push()
+son.push(5);
+console.log(son);
+
