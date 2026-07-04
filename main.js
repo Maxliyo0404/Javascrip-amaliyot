@@ -75,4 +75,4 @@ const user = {
   name: "Vali", age: 17,
 }
 const users =user.map(ism => ism.name);
-console.log();
+console.log(users);
