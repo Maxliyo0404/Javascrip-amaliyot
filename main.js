@@ -76,3 +76,5 @@
 // console.log(son);
 
 const mevlar = ["olma", "behi", "nok", "baman"];
+mevlar.pop();
+console.log(mevlar);
