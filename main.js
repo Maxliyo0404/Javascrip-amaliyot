@@ -71,7 +71,7 @@
 // let number = son.map(n => n * 2);
 // console.log(number);
 const user = [
-   name: "Ali", age: 23,
+  { name: "Ali", age: 23},
   name: "Vali", age: 17,
 ]
 const users =user.map(ism => ism.name);
