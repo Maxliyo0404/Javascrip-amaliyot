@@ -71,3 +71,4 @@
 // let number = son.map(n => n * 2);
 // console.log(number);
 
+const son = [2, 3, 9, 5, 7, 9];
