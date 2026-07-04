@@ -75,4 +75,4 @@
 // son.push(5);
 // console.log(son);
 
-const mevlar
+const mevlar = ["olma", "behi", "nok", "baman"];
