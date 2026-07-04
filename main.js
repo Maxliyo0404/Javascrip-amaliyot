@@ -64,6 +64,6 @@
   // const users = user.filter( u => u.name.toLocaleLowerCase().startsWith('a'));
   // console.log(users);
   
-const harf = ["a", "b", "c"] ;
-const res = harf.map((harflar => harflar.index)) 
- console.log(res)
+// const harf = ["a", "b", "c"] ;
+// const res = harf.map((harflar => harflar.index)) 
+//  console.log(res)
