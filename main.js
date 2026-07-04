@@ -74,4 +74,5 @@ const user = {
   name: "Ali", age: 23,
   name: "Vali", age: 17,
 }
-const users =user.map(ism => ism)
+const users =user.map(ism => ism.name);
+console.log();
