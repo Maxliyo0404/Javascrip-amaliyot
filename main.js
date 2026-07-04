@@ -66,7 +66,7 @@
   
 const harf = ["a", "b", "c"] ;
 const res = harf.map((harflar => harflar.index){
- return index();
+
   
 }) 
  console.log(res)
