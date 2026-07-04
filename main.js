@@ -74,4 +74,4 @@ const user = {
   name: "Ali", age: 23,
   name: "Vali", age: 17,
 }
-const users =user.map()
+const users =user.map(ism => ism)
